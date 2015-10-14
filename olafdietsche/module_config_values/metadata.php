@@ -14,8 +14,8 @@ $sMetadataVersion = '1.0';
  * Module information
  */
 $aModule = array(
-    'id' => 'admin_config_values',
-    'title' => 'Admin config values sample',
+    'id' => 'module_config_values',
+    'title' => 'Module config values sample',
     'description' => 'Module to show how to add a config tab.',
 //    'thumbnail' => 'picture.png',
     'version' => '0.1',
@@ -29,8 +29,8 @@ $aModule = array(
     'blocks' => array(
     ),
     'settings' => array(
-        array('group' => 'olafdietsche_admin_config_values', 'name' => 'server', 'type' => 'str',  'value' => ''),
-        array('group' => 'olafdietsche_admin_config_values', 'name' => 'username', 'type' => 'str',  'value' => ''),
-        array('group' => 'olafdietsche_admin_config_values', 'name' => 'password', 'type' => 'password',  'value' => ''),
+        array('group' => 'olafdietsche_module_config_values', 'name' => 'server', 'type' => 'str',  'value' => ''),
+        array('group' => 'olafdietsche_module_config_values', 'name' => 'username', 'type' => 'str',  'value' => ''),
+        array('group' => 'olafdietsche_module_config_values', 'name' => 'password', 'type' => 'password',  'value' => ''),
     ),
 );

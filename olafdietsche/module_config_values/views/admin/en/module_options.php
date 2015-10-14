@@ -10,7 +10,7 @@
 // -------------------------------
 $aLang = array(
     'charset' => 'UTF-8',
-    'SHOP_MODULE_GROUP_olafdietsche_admin_config_values' => 'Admin Options',
+    'SHOP_MODULE_GROUP_olafdietsche_module_config_values' => 'Module Options',
 
     'SHOP_MODULE_server' => 'Adress of server',
     'SHOP_MODULE_username' => 'User account for server',
